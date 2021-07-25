@@ -1,4 +1,5 @@
 ---
+layout: page
 title: JuLiase - Julia users group, Adelaide
 description: A space for coders of all backgrounds and ability to meet and discuss Julia.
 ---
