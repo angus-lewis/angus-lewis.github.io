@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Resources
 permalink: https://angus-lewis.github.io/resources
 ---
