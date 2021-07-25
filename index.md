@@ -37,7 +37,7 @@ All with an interest in programming in Julia are welcome. We have people ranging
 
 ---
 
-Resources that the community makes can be found [here](https://github.com/angus-lewis/angus-lewis.github.io/resources/resources.md).
+Resources that the community makes can be found [here](https://angus-lewis.github.io/resources/resources.md).
 
 --- 
 
