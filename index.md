@@ -1,8 +1,3 @@
----
-layout: page
-title: JuLiase - Julia users group, Adelaide
-description: A space for coders of all backgrounds and ability to meet and discuss Julia.
----
 ## Welcome 
 
 Julia is THE cool new programming language on the block!
