@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Resources
-description: Home of resources the community has made.
 permalink: /resources/
 ---
 
