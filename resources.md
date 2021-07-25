@@ -1,6 +1,4 @@
 ---
-theme: jekyll-theme-slate
-layout: page
 title: Resources
 permalink: /resources/
 ---
