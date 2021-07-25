@@ -14,7 +14,7 @@ All with an interest in programming in Julia are welcome. We have people ranging
 
 ---
 
-##### Organisers
+#### Organisers
 + Angus Lewis (University of Adelaide)
 + Matt Roughan (University of Adelaide), 
 
@@ -37,7 +37,7 @@ All with an interest in programming in Julia are welcome. We have people ranging
 
 ---
 
-[https://github.com/angus-lewis/angus-lewis.github.io/resources.md](https://github.com/angus-lewis/angus-lewis.github.io/resources.md)
+[https://angus-lewis.github.io/resources.md](https://angus-lewis.github.io/resources.md)
 
 --- 
 
