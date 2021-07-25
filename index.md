@@ -35,6 +35,10 @@ All with an interest in programming in Julia are welcome. We have people ranging
     + July 9th, room 5.58: 
     + July 23rd, room 5.57: Data I/O
 
+---
+
+[https://github.com/angus-lewis/angus-lewis.github.io/resources.md](https://github.com/angus-lewis/angus-lewis.github.io/resources.md)
+
 --- 
 
 The members of this group are diverse by nature and inclusive by choice. Our diversity is a resource, strength and benefit. We are committed to fostering a respectful and inclusive environment for all participants, regardless  gender identity or expression, sexual orientation, ethnicity, age, culture, or any other aspect which makes them unique.
